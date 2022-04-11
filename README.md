@@ -12,7 +12,8 @@
 
 - The largest number of people will have the title of Senior Engineer with 25,916 eligible to retire and Senior Staff a close second with 24,926 people.
 
-<img width="220" alt="Screen Shot 2022-04-11 at 1 08 28 AM" src="https://user-images.githubusercontent.com/98680133/162676831-43466d42-1c35-493b-9ebd-a800007c9be8.png">
+<img width="219" alt="Screen Shot 2022-04-11 at 1 08 43 AM" src="https://user-images.githubusercontent.com/98680133/162678490-6dbc0b09-c78d-4fca-9f3b-4efe8296719d.png">
+
 
 - There are currently 1,549 employees whoa reconsidered eligible for a training program based on criteria of being born in 1965. 
 
